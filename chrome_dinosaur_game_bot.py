@@ -1,3 +1,5 @@
+# Variable names such as "something", "rand", "num" and "ok" should be more descriptive
+
 import mss
 from PIL import Image
 import time
