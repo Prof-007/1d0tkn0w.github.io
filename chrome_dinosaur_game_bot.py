@@ -1,3 +1,6 @@
+# the current method for dealing with the increase in speed of the game is to increase the size of the screen capture so that the bot
+# is given a greater field of view
+
 import mss
 from PIL import Image
 import time
