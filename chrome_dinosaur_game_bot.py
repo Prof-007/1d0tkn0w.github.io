@@ -1,3 +1,4 @@
+# mss is a module that assists in screen capture. It is much faster than the pyautogui screen capture
 import mss
 from PIL import Image
 import time
