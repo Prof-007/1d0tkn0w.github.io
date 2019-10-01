@@ -1,3 +1,5 @@
+# delays should have some sort of calculation or should have a comment describing the reason for the delay especially if it is short
+
 import mss
 from PIL import Image
 import time
