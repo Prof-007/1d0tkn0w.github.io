@@ -1,4 +1,5 @@
 import mss
+# edit 1 for pull request trial 2
 from PIL import Image
 import time
 import keyboard
